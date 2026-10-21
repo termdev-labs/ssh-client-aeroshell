@@ -84,7 +84,7 @@ Aeroshell 是一款现代化的 SSH 客户端工具，适用于开发者和运�
 - 多设备管理
 - 实时延迟监控
 - AI 智能助手
-- 支持 Windows、macOS、Linux 跨平台
+- 支持 Windows、macOS、Linux、Android 跨平台
 
 ### 为什么选择 Aeroshell：
 
