@@ -20,7 +20,7 @@ Aeroshell is a modern SSH client with AI features and cross-platform support.
 - Multi-device management
 - Real-time latency monitoring
 - AI command assistant
-- Cross-platform (Windows, macOS, Linux)
+- Cross-platform (Windows, macOS, Linux,Android)
 
 ---
 
