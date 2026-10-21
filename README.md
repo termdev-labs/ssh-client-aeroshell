@@ -45,7 +45,7 @@ Compared to these tools, Aeroshell offers:
 
 | Tool        | Platform | UI      | AI | Multi-device |
 |-------------|----------|---------|----|--------------|
-| Aeroshell   | Win/Mac/Linux | Modern | ✔ | ✔ |
+| Aeroshell   | Win/Mac/Linux/Android | Modern | ✔ | ✔ |
 | Xshell      | Windows  | Traditional | ✖ | Limited |
 | MobaXterm   | Windows  | Old UI | ✖ | Limited |
 | FinalShell  | Multi    | Complex | ✖ | Limited |
